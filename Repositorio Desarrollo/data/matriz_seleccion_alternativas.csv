@@ -1,0 +1,21 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4
+,,,,
+,,,,
+,,,,
+,,,,
+,CRITERIOS DE VALORACIÓN,Alternativa 1,Alternativa 2 ,Alternativa 3
+,,A Travez de un portal web generar un curso  virtual destinado a la herramineta a usar.,"Facilitar algun aplicativo que permte un siguimiento de pagos,  entregas y tiempos establecidos con proveedores.","Crear un  dashboard Power BI o Excel con métricas de ventas, desperdicios e inventario."
+,Menor costo de realización,2,1,3
+,Mayor financiamiento disponible,2,1|,3
+,Menor tiempo,3,1,2
+,Mayor aceptación por la población afectada,2,3,1
+,Mayor viabilidad técnica,1,2,3
+,Mayor capacidad institucional,,,
+,Mayor pertinencia(de acuerdo al tamaño del problema),2,1,3
+,Menor impacto ambiental,3,2,1
+,TOTAL,15,10,16
+,,,,
+,,,,
+,,VALORACIÓN,1,Peor
+,,,2,Intermedia
+,,,3,Mejor

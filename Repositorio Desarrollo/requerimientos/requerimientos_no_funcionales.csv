@@ -1,0 +1,101 @@
+Requerimientos  no funcionales ,Unnamed: 1
+,
+Identificación del requerimiento:,RNF1
+Nombre del Requerimiento:,Tiempo de respuesta de sistema 
+Características:,"Rendiemiento, eficacia "
+Descripción del requerimiento:,"El sistema deberá registrar y consultar datos del inventario en menos de 2 segundos, incluso con una carga de hasta 500 registros activos, garantizando una experiencia fluida para el usuario."
+,
+Identificación del requerimiento:,RNF2
+Nombre del Requerimiento:,Interfaz intuitiva para el usuario
+Características:,"Usabilidad, accesibilidad"
+Descripción del requerimiento:,"a interfaz del sistema deberá ser fácil de usar para personal sin experiencia tecnológica, con menús simples, botones grandes e instrucciones claras"
+,
+Identificación del requerimiento:,RNF3
+Nombre del Requerimiento:,Seguridad de acceso y auditoría
+Características:,"Seguridad, trazabilidad"
+Descripción del requerimiento:,"El sistema deberá permitir el acceso mediante credenciales únicas por usuario. Además, cada acción realizada en el sistema deberá ser registrada en un historial de auditoría para garantizar trazabilidad y control."
+,
+Identificación del requerimiento:,RNf4
+Nombre del Requerimiento:,Disponibilidad del sistema
+Características:,"Confiabilidad, estabilidad"
+Descripción del requerimiento:,"El sistema deberá estar disponible el 95% del tiempo durante el horario operativo de la panadería (de 6:00 a.m. a 9:00 p.m.), asegurando continuidad en las operaciones."
+,
+Identificación del requerimiento:,RNf5
+Nombre del Requerimiento:,Escalabilidad del sistema
+Características:,"Flexibilidad, crecimiento futuro"
+Descripción del requerimiento:,"l sistema deberá ser capaz de integrarse con nuevos módulos (como control de ventas, pedidos o empleados) sin necesidad de modificar su estructura central, permitiendo su crecimiento con el negocio."
+,
+Identificación del requerimiento:,RNF6
+Nombre del Requerimiento:,Mantenibilidad del sistema
+Características:,"Documentación, soporte técnico"
+Descripción del requerimiento:,"El sistema deberá estar debidamente documentado, permitiendo que cualquier técnico pueda realizar mantenimiento o actualizaciones en un plazo máximo de 48 horas ante fallas o mejoras necesarias."
+,
+Identificación del requerimiento:,RNF7
+Nombre del Requerimiento:,Usabilidad
+Características:,Interfaz intuitiva y amigable para usuarios sin experiencia técnica
+Descripción del requerimiento:,El sistema debe ser fácil de usar para minimizar errores de operación y permitir que todo el personal pueda interactuar con él sin dificultad.
+,
+Identificación del requerimiento:,RNF8
+Nombre del Requerimiento:,Seguridad de la información
+Características:,"Niveles de acceso, autenticación de usuarios y protección de dato"
+Descripción del requerimiento:,"El sistema debe garantizar la integridad y confidencialidad de la información, restringiendo el acceso según los roles del usuario."
+,
+Identificación del requerimiento:,RNF9
+Nombre del Requerimiento:,Disponibilidad
+Características:,Tiempo activo superior al 99%
+Descripción del requerimiento:,"El sistema debe estar disponible para su uso durante todo el horario laboral y fuera de él, evitando interrupciones en el control de inventario."
+,
+Identificación del requerimiento:,RNF10
+Nombre del Requerimiento:,Escalabilidad
+Características:,Capacidad de adaptarse al crecimiento del negocio
+Descripción del requerimiento:,"El sistema debe permitir la integración de nuevos módulos, funcionalidades o usuarios sin necesidad de rediseño total."
+,
+Identificación del requerimiento:,RNF11
+Nombre del Requerimiento:,Mantenibilidad
+Características:,Estructura modular y documentada para actualizaciones
+Descripción del requerimiento:,"El sistema debe ser fácil de actualizar, corregir y mantener sin afectar el funcionamiento general ni detener las operaciones."
+,
+Identificación del requerimiento:,RNF12
+Nombre del Requerimiento:,Rendimiento
+Características:,Alta velocidad de respuesta en operaciones
+Descripción del requerimiento:,"El sistema debe procesar operaciones críticas como registros y consultas en menos de 2 segundos, incluso en horas de alta demanda."
+,
+Identificación del requerimiento:,RNF13
+Nombre del Requerimiento:,Compatibilidad multiplataforma
+Características:,Accesible desde diferentes dispositivos y navegadores
+Descripción del requerimiento:,"El sistema debe poder utilizarse en computadoras, celulares y tabletas mediante navegadores estándar como Chrome, Firefox y Safari."
+,
+Identificación del requerimiento:,RN14
+Nombre del Requerimiento:,Rendimiento
+Características:,"Tiempo de respuesta < 2 seg, transacciones concurrentes"
+Descripción del requerimiento:,La base de datos debe responder a consultas de inventario en menos de 2 segundos y soportar múltiples transacciones al mismo tiempo sin degradar su funcionamiento.
+,
+Identificación del requerimiento:,RN15
+Nombre del Requerimiento:,Disponibilidad
+Características:,"99% de uptime, horarios de operación"
+Descripción del requerimiento:,"El sistema debe estar disponible de forma continua durante el horario laboral de la panadería, evitando caídas que interrumpan la operación."
+,
+Identificación del requerimiento:,RN-16
+Nombre del Requerimiento:,Seguridad
+Características:,"Control de accesos, autenticación de usuarios"
+Descripción del requerimiento:,"Solo usuarios autorizados podrán acceder a la base de datos mediante contraseñas seguras, protegiendo los datos sensibles de accesos no autorizados."
+,
+Identificación del requerimiento:,RN-17
+Nombre del Requerimiento:,Confiabilidad
+Características:,"Integridad de datos, tolerancia a fallos"
+Descripción del requerimiento:,La base de datos debe garantizar que los registros de inventario no se pierdan ni se corrompan ante fallos eléctricos o del sistema.
+,
+Identificación del requerimiento:,RN-18
+Nombre del Requerimiento:,Mantenibilidad
+Características:,"Flexibilidad, modularidad"
+Descripción del requerimiento:,"El diseño debe permitir modificaciones (ej. nuevos productos o categorías) de manera sencilla, sin requerir reestructuración completa."
+,
+Identificación del requerimiento:,RN-19
+Nombre del Requerimiento:,Escalabilidad
+Características:,Crecimiento en volumen de datos y usuarios
+Descripción del requerimiento:,"El sistema debe poder adaptarse al aumento de productos, proveedores o sucursales sin afectar su rendimiento ni su disponibilidad."
+,
+Identificación del requerimiento:,RN-20
+Nombre del Requerimiento:,Respaldo y Recuperación
+Características:,"Backups automáticos, RTO ≤ 30 min"
+Descripción del requerimiento:,Deben realizarse copias de seguridad diarias y tener un procedimiento que permita recuperar la base de datos en máximo 30 minutos en caso de falla.

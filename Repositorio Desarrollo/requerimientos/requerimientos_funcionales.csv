@@ -1,0 +1,101 @@
+Requerimientos Funcionales,Unnamed: 1
+,
+Identificación del requerimiento:,RF01
+Nombre del Requerimiento:,Generación de reportes diarios
+Características:,Reportes automáticos y detallados de entradas y salidas
+Descripción del requerimiento:,"El sistema debe generar reportes diarios de inventario que incluyan entradas, salidas y existencias actualizadas."
+,
+Identificación del requerimiento:,RF02
+Nombre del Requerimiento:,Control de entradas y salidas
+Características:,"Registro en tiempo real, codificación de productos"
+Descripción del requerimiento:,Permitir el registro preciso de cada entrada y salida del inventario mediante identificación única de productos.
+,
+Identificación del requerimiento:,RF03
+Nombre del Requerimiento:,Implementación de QR o código de barras
+Características:,"Escaneo, identificación rápida, reducción de errores"
+Descripción del requerimiento:,Utilizar códigos QR o de barras para identificar productos y agilizar su registro en el sistema.
+,
+Identificación del requerimiento:,RF04
+Nombre del Requerimiento:,Uso de herramientas digitales de inventario
+Características:,"Interfaz amigable, compatibilidad con dispositivos"
+Descripción del requerimiento:,Integrar herramientas digitales (software) para la administración y visualización de datos de inventario.
+,
+Identificación del requerimiento:,RF05
+Nombre del Requerimiento:,Curso virtual sobre uso de herramientas
+Características:,"Plataforma web, acceso interno"
+Descripción del requerimiento:,Proporcionar acceso a un curso virtual para capacitar al personal sobre el uso correcto de las herramientas digitales.
+,
+Identificación del requerimiento:,RF06
+Nombre del Requerimiento:,Manual digital interno de procedimientos
+Características:,"PDF descargable, búsqueda por secciones"
+Descripción del requerimiento:,"Crear un documento digital con los procedimientos estándar del inventario, accesible al personal."
+,
+Identificación del requerimiento:,RF07
+Nombre del Requerimiento:,Creación de base de datos de proveedores
+Características:,"Datos actualizados, campos personalizables"
+Descripción del requerimiento:,Generar una base de datos organizada para registrar y actualizar información de proveedores.
+,
+Identificación del requerimiento:,RF08
+Nombre del Requerimiento:,Seguimiento de pagos y entregas de proveedores
+Características:,"Alertas automáticas, histórico de transacciones"
+Descripción del requerimiento:,"Sistema que permita seguimiento de pagos, entregas y cumplimiento de contratos con proveedores."
+,
+Identificación del requerimiento:,RF09
+Nombre del Requerimiento:,Contratos digitales con proveedores
+Características:,"Firma electrónica, archivos seguros"
+Descripción del requerimiento:,Almacenar contratos firmados digitalmente que regulen el abastecimiento continuo.
+,
+Identificación del requerimiento:,RF10
+Nombre del Requerimiento:,Capacitación formal al nuevo personal
+Características:,"Plataforma web, módulos interactivos"
+Descripción del requerimiento:,Ofrecer capacitación en línea al nuevo personal sobre registro y control de ventas e inventario.
+,
+Identificación del requerimiento:,RF11
+Nombre del Requerimiento:,Evaluaciones periódicas del personal
+Características:,"Evaluaciones automáticas, reportes de desempeño"
+Descripción del requerimiento:,Aplicar evaluaciones regulares para medir el conocimiento del personal en los procesos de inventario.
+,
+Identificación del requerimiento:,RF12
+Nombre del Requerimiento:,Dashboard de métricas con Power BI o Excel
+Características:,"Visualización gráfica, exportación de datos"
+Descripción del requerimiento:,"Crear un panel visual con métricas de ventas, desperdicios e inventario, actualizable en tiempo real."
+,
+Identificación del requerimiento:,RF13
+Nombre del Requerimiento:,Sistema POS integrado al inventario
+Características:,"Conexión en tiempo real, compatibilidad con terminales"
+Descripción del requerimiento:,Implementar un punto de venta que sincronice las ventas con el inventario automáticamente.
+,
+Identificación del requerimiento:,RF14
+Nombre del Requerimiento:,Registro de fechas de caducidad
+Características:,"Alertas de vencimiento, control por lote"
+Descripción del requerimiento:,Registrar fechas de caducidad y emitir alertas para evitar pérdidas de producto.
+,
+Identificación del requerimiento:,RF15
+Nombre del Requerimiento:,Protocolos de almacenamiento
+Características:,"Manual digital, checklist descargable"
+Descripción del requerimiento:,Diseñar un manual de buenas prácticas para almacenamiento de materias primas y productos.
+,
+Identificación del requerimiento:,RF16
+Nombre del Requerimiento:,App para protocolos de conservación
+Características:,"Interfaz móvil, actualización en tiempo real"
+Descripción del requerimiento:,Aplicación para seguir protocolos de conservación y almacenamiento adecuados.
+,
+Identificación del requerimiento:,RF17
+Nombre del Requerimiento:,Inducción interactiva vía aplicativo web
+Características:,"Módulos con videos, cuestionarios"
+Descripción del requerimiento:,Sistema de inducción con prácticas guiadas sobre ventas e inventario.
+,
+Identificación del requerimiento:,RF18
+Nombre del Requerimiento:,Control de desperdicio de producto
+Características:,"Registro diario, análisis de causas"
+Descripción del requerimiento:,"Registrar el desperdicio diario de productos, clasificando causas y cantidades."
+,
+Identificación del requerimiento:,RF19
+Nombre del Requerimiento:,Notificaciones de stock mínimo
+Características:,"Alertas por correo o app, configuración personalizada"
+Descripción del requerimiento:,Alertas automáticas cuando el inventario de un producto llegue a niveles críticos.
+,
+Identificación del requerimiento:,RF20
+Nombre del Requerimiento:,Histórico de movimientos de inventario
+Características:,"Búsqueda por fechas, producto o usuario"
+Descripción del requerimiento:,Registro completo y consultable de todos los movimientos de inventario.
