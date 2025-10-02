@@ -3,6 +3,7 @@
 ## 📂 Contenido
 
 ### Datos del archivo AdA 2.xlsx (carpeta `data/`)
+- `HU Taller en clase.docx → Taller realizado en clase día 1/10/2025.
 - `arbol_problemas.csv` → Árbol de problemas identificado en el proyecto.  
 - `arbol_objetivos.csv` → Árbol de objetivos derivados de los problemas.  
 - `arbol_acciones.csv` → Árbol de acciones propuestas.  
