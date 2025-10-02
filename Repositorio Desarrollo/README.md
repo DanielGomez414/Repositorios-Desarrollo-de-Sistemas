@@ -28,4 +28,3 @@ print(df2.head())
 ```
 
 ---
-Repositorio generado automáticamente a partir de los archivos Excel originales.
