@@ -1,7 +1,4 @@
-# Proyecto AdA - Datos Exportados
-
-Este repositorio contiene información estructurada a partir de los archivos **AdA 2.xlsx** y **RFy NF.xlsx**.  
-Todos los datos se exportaron a formato **CSV** para facilitar su uso.
+# Proyecto AdA
 
 ## 📂 Contenido
 
@@ -16,11 +13,9 @@ Todos los datos se exportaron a formato **CSV** para facilitar su uso.
 - `requerimientos_funcionales.csv` → Lista de requerimientos funcionales del sistema.  
 - `requerimientos_no_funcionales.csv` → Lista de requerimientos no funcionales del sistema.  
 
-## 📌 Uso
+## 📌 Uso 
 
-Puedes cargar los datos en Python, R o Excel directamente.  
-
-Ejemplo en Python:
+Python:
 
 ```python
 import pandas as pd
